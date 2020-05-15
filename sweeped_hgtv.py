@@ -109,6 +109,3 @@ for webpage in webframes:
         sleep(2)
     except:
         pass
-
-
-# In[ ]:
